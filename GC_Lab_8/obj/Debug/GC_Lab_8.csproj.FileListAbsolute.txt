@@ -1,0 +1,7 @@
+C:\Users\jusja\source\repos\GC_Lab_8\GC_Lab_8\bin\Debug\GC_Lab_8.exe.config
+C:\Users\jusja\source\repos\GC_Lab_8\GC_Lab_8\bin\Debug\GC_Lab_8.exe
+C:\Users\jusja\source\repos\GC_Lab_8\GC_Lab_8\bin\Debug\GC_Lab_8.pdb
+C:\Users\jusja\source\repos\GC_Lab_8\GC_Lab_8\obj\Debug\GC_Lab_8.csprojAssemblyReference.cache
+C:\Users\jusja\source\repos\GC_Lab_8\GC_Lab_8\obj\Debug\GC_Lab_8.csproj.CoreCompileInputs.cache
+C:\Users\jusja\source\repos\GC_Lab_8\GC_Lab_8\obj\Debug\GC_Lab_8.exe
+C:\Users\jusja\source\repos\GC_Lab_8\GC_Lab_8\obj\Debug\GC_Lab_8.pdb
